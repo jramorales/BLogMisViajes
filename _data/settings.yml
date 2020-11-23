@@ -1,10 +1,10 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname: 'http://disqus.com/by/moguimon'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+# google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Sobre Mi', path: 'menu', url: 'sobremi.html'}
@@ -23,8 +23,8 @@ pagination:
   next_page: 'Nuevas'
   previous_page: 'Antiguas'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Compártelo'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'También Puedes:'
 
 post_date_prefix: 'Escrito en'
