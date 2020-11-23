@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Este Blog', path: 'menu', url: 'about.html'}
+- {name: 'Viajes', path: 'menu', url: 'writing.html'}
+- {name: 'Contacto', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -22,8 +22,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Nuevas'
+  previous_page: 'Antiguas'
 
 sharing_button_prompt: 'Feel free to share!'
 
