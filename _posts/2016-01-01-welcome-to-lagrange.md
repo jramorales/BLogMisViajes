@@ -19,4 +19,4 @@ Vamos a hacer un pequeño paseo por algunas de las maravillosas islas Canarias.
 
 ### Isla de Fuerteventura
 
-[Imágenes de Fuerteventura] (http://choosealicense.com/licenses/mit/). 
+[Imágenes de Fuerteventura](http://choosealicense.com/licenses/mit/). 
