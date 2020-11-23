@@ -15,7 +15,7 @@ menu:
 social:
 - {icon: 'github', link: 'https://www.github.com/moguimon'}
 - {icon: 'twitter', link: 'https://twitter.com/Tmoguimon'}
-- {icon: 'linkedin', link: 'htpps://www.linkedin.com/in/jramorales'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/feed/'}
 - {icon: 'envelope', link: 'mailto:moguimon@gmail.com'}
 
 # Customize site text
@@ -27,4 +27,4 @@ sharing_button_prompt: 'Feel free to share!'
 
 related_posts: 'You may also enjoy:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Escrito en'
