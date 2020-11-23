@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Este Blog', path: 'menu', url: 'sobremi.html'}
-- {name: 'Viajes', path: 'menu', url: 'writing.html'}
-- {name: 'Contacto', path: 'menu', url: 'contact.html'}
+- {name: 'Sobre Mi', path: 'menu', url: 'sobremi.html'}
+- {name: 'Viajes', path: 'menu', url: 'viajes.html'}
+- {name: 'Contacto', path: 'menu', url: 'contacto.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
