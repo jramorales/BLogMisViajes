@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Este Blog', path: 'menu', url: 'about.html'}
+- {name: 'Este Blog', path: 'menu', url: 'sobremi.html'}
 - {name: 'Viajes', path: 'menu', url: 'writing.html'}
 - {name: 'Contacto', path: 'menu', url: 'contact.html'}
 
