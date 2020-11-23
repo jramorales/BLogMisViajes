@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Viajes a Tenereife"
+title: "Viajes a las Islas Canarias"
 author: "Ramon Morales"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: IslasCanarias.jpg
 ---
 
 Vamos a hacer un pequeño paseo por algunas de las maravillosas islas Canarias.
