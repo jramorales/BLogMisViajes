@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entradas
+title: Blog Viajes
 ---
 <ul class="posts">
   {% for post in site.posts %}
