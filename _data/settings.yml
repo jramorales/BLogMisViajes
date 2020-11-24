@@ -23,7 +23,7 @@ pagination:
   next_page: 'Nuevas'
   previous_page: 'Antiguas'
 
-sharing_button_prompt: 'Compártelo'
+sharing_button_prompt: 'Comparte con tus amigos'
 
 related_posts: 'También puedes ver:'
 
